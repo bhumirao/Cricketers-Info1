@@ -1,29 +1,3 @@
-## Yashasvi Jaiswal
-Yashasvi Jaiswal is an Indian Cricketer from Bhadohi, Uttar Pradesh. He plays for India-Under 19s and Mumbai Cricket Team. Yashavi is the youngest cricketer in the world to score a List A Double Century. The talented cricketer Yashasvi Jaiswal has been signed by Rajasthan Royals for Rs. 2.4 Crores to play in IPL 2020.
-Cricketer Yashasvi Jaiswal is a wonder kid. Now, he is a part of the Rajasthan Royals IPL Team. After so many hardships and struggles, he achieved success and fame in the field of cricket.
-During his struggle period, he used to live in Tents with the groundsmen at the Maidan. He slept hungry often and sold panipuri to earn his livings.
-In Feb 2020, he played for the ICC U-19 World Cup. He scored an unbeaten century in the semifinal against Pakistan. Yashasvi made 105 scores off 113 balls with 8 fours and 4 sixes.
-The full name of Yashasvi Jaiswal is Yashasvi Bhupendra Kumar Jaiswal. He was born on 28th December 2001 at Suriyawan, Bhadohi, Uttar Pradesh. His height is 5 feet 10 inches. His father’s name is Bhupendra Jaiswal who was the owner of a small hardware store. While his mother Kanchan Jaiswal is a housewife. He has five brothers and sisters.
-At the age of 10 years, he moved to Mumbai with his father. He used to visit Azad Maidan and love playing cricket there for practice. His father wanted him to go back to UP, but he decided to stay there with an aim to play for Mumbai.
-He stayed in Mumbai and start living in tents. He could not get much financial support from his family. So, he started selling Pani Puris to earn his living. He used to make a century in cricket matches in the morning and sell pani puris in the evening.
-Later, his coach Jwala Singh discovered his talent and took him under his wings. in 2013, The father of Yashasvi Jaiswal handed over the responsibility of Yashasvi to his coach Jwala Singh. Since then, he had been living with him. Yashasvi Jaiswal Jersey Number is 23 which is the birthday of his coach Jawala Singh.
-But, hard work and patience payback. Now he is playing for the Indian Cricket Team. He is also a cricketer in IPL Team Rajasthan Royals for IPL 2020. He got 2.4 Crores INR for playing in IPL 2020 in Rajasthan Royals Team.
-
-## Kusal Peerera
-Mathurage Don Kusal Janith Perera (Sinhala: කුසල් පෙරේරා) (born 17 August 1990), more commonly known as Kusal Perera, is a professional Sri Lankan cricketer and a former limited overs Captain of Sri Lanka national cricket team. He plays all forms of the game for the Sri Lanka national cricket team, and currently one of the permanent top order batsman in all formats. He was a key member of the 2014 ICC World Twenty20 winning team. In domestic cricket, he plays for the Wayamba cricket team.
-
-He smashed 153 not out against South Africa in the first Test at Durban in 2019 to snatch the victory from the hands of South Africa by adding 78 runs for the last wicket with Vishwa Fernando in the match in the 4th innings of the Test match. That innings was named as the second-best Test innings of the decade by Wisden in 2019 and he also won the best test performance from Cricinfo for 2019.
-
-In May 2021, he was named as the captain of the Sri Lankan team, ahead of their One Day International (ODI) series against Bangladesh.[4]
-
-## Suresh Raina
-Arguably among India's finest T20 batsmen, Suresh Raina stormed into the international scene as a teenage prodigy during the Greg Chappell regime. Typical left-hander's elegance, power game and a fine temperament were the hallmark of Raina the batsman and he exhibited it beautifully during his ODI debut in 2005. After a stupendous start though, his form dipped over the next year and that was followed by a serious injury which meant that the career had hit a roadblock towards the latter part of 2007. The talent was obvious but Raina needed to translate that on the field as well. That's when the IPL Caravan debuted in 2008.
-
-## Gautam Gambhir
-Gautam Gambhir's cricketing career has all the trappings of a typical Bollywood flick- the glamour, the drama, the passion, the chutzpah, the wrangles, and of course the proverbial acche din and bure din.
-
-Gambhir's journey as a first-class cricketer began in the 1999-2000 season. But, it was a couple of years later, in 2002, that the Delhi lad first stole the spotlight. Then playing for the Board President's XI against a touring Zimbabwe team, the left-hander smashed a double century scoring 218 runs. A year later, came the big moment: Gambhir secured his place in the Indian team for the TVS Cup, a triangular fixture.
-
 # Cricketers-Info
 
 This repository contains the information on the different crickerters, their ages and their respective roles in the history of cricket.
@@ -75,6 +49,34 @@ Hardik Himanshu Pandya is an Indian international cricketer who plays for the In
 ## Rohit Sharma
 Rohit Gurunath Sharma is an Indian international cricketer who is the current captain of the Indian national cricket team. In the Indian Premier League he captains Mumbai Indians and is a right-handed opening batsman, and an occasional right-arm off break bowler. He plays for Mumbai in domestic cricket.
 
+## Yashasvi Jaiswal
+Yashasvi Jaiswal is an Indian Cricketer from Bhadohi, Uttar Pradesh. He plays for India-Under 19s and Mumbai Cricket Team. Yashavi is the youngest cricketer in the world to score a List A Double Century. The talented cricketer Yashasvi Jaiswal has been signed by Rajasthan Royals for Rs. 2.4 Crores to play in IPL 2020.
+
+Cricketer Yashasvi Jaiswal is a wonder kid. Now, he is a part of the Rajasthan Royals IPL Team. After so many hardships and struggles, he achieved success and fame in the field of cricket.
+During his struggle period, he used to live in Tents with the groundsmen at the Maidan. He slept hungry often and sold panipuri to earn his livings.
+In Feb 2020, he played for the ICC U-19 World Cup. He scored an unbeaten century in the semifinal against Pakistan. Yashasvi made 105 scores off 113 balls with 8 fours and 4 sixes.
+
+The full name of Yashasvi Jaiswal is Yashasvi Bhupendra Kumar Jaiswal. He was born on 28th December 2001 at Suriyawan, Bhadohi, Uttar Pradesh. His height is 5 feet 10 inches. His father’s name is Bhupendra Jaiswal who was the owner of a small hardware store. While his mother Kanchan Jaiswal is a housewife. He has five brothers and sisters.
+
+At the age of 10 years, he moved to Mumbai with his father. He used to visit Azad Maidan and love playing cricket there for practice. His father wanted him to go back to UP, but he decided to stay there with an aim to play for Mumbai.
+He stayed in Mumbai and start living in tents. He could not get much financial support from his family. So, he started selling Pani Puris to earn his living. He used to make a century in cricket matches in the morning and sell pani puris in the evening.
+Later, his coach Jwala Singh discovered his talent and took him under his wings. in 2013, The father of Yashasvi Jaiswal handed over the responsibility of Yashasvi to his coach Jwala Singh. Since then, he had been living with him. Yashasvi Jaiswal Jersey Number is 23 which is the birthday of his coach Jawala Singh.
+But, hard work and patience payback. Now he is playing for the Indian Cricket Team. He is also a cricketer in IPL Team Rajasthan Royals for IPL 2020. He got 2.4 Crores INR for playing in IPL 2020 in Rajasthan Royals Team.
+
+## Kusal Peerera
+Mathurage Don Kusal Janith Perera (Sinhala: කුසල් පෙරේරා) (born 17 August 1990), more commonly known as Kusal Perera, is a professional Sri Lankan cricketer and a former limited overs Captain of Sri Lanka national cricket team. He plays all forms of the game for the Sri Lanka national cricket team, and currently one of the permanent top order batsman in all formats. He was a key member of the 2014 ICC World Twenty20 winning team. In domestic cricket, he plays for the Wayamba cricket team.
+
+He smashed 153 not out against South Africa in the first Test at Durban in 2019 to snatch the victory from the hands of South Africa by adding 78 runs for the last wicket with Vishwa Fernando in the match in the 4th innings of the Test match. That innings was named as the second-best Test innings of the decade by Wisden in 2019 and he also won the best test performance from Cricinfo for 2019.
+
+In May 2021, he was named as the captain of the Sri Lankan team, ahead of their One Day International (ODI) series against Bangladesh.[4]
+
+## Suresh Raina
+Arguably among India's finest T20 batsmen, Suresh Raina stormed into the international scene as a teenage prodigy during the Greg Chappell regime. Typical left-hander's elegance, power game and a fine temperament were the hallmark of Raina the batsman and he exhibited it beautifully during his ODI debut in 2005. After a stupendous start though, his form dipped over the next year and that was followed by a serious injury which meant that the career had hit a roadblock towards the latter part of 2007. The talent was obvious but Raina needed to translate that on the field as well. That's when the IPL Caravan debuted in 2008.
+
+## Gautam Gambhir
+Gautam Gambhir's cricketing career has all the trappings of a typical Bollywood flick- the glamour, the drama, the passion, the chutzpah, the wrangles, and of course the proverbial acche din and bure din.
+
+Gambhir's journey as a first-class cricketer began in the 1999-2000 season. But, it was a couple of years later, in 2002, that the Delhi lad first stole the spotlight. Then playing for the Board President's XI against a touring Zimbabwe team, the left-hander smashed a double century scoring 218 runs. A year later, came the big moment: Gambhir secured his place in the Indian team for the TVS Cup, a triangular fixture.
 ## Ravindra Jadeja
 Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket.
 
